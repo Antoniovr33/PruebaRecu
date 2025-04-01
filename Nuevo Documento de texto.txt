@@ -1,3 +1,0 @@
-Apuntes Entornos Git:
-
-1. git init

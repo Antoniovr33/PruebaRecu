@@ -7,6 +7,7 @@ public class Avr_Rectangulo {
 	private String color;
 	
 	public Avr_Rectangulo() {}
+	
 	public Avr_Rectangulo(int id, double ladoA, double ladoB, String color) {
 		super();
 		this.id = id;
