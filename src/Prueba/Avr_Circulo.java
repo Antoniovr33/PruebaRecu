@@ -4,6 +4,7 @@ public class Avr_Circulo {
 	private int id;
 	private double radio;
 	private String color;
+
 	
 	public Avr_Circulo() {}
 	
